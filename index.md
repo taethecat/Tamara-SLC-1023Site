@@ -2,11 +2,11 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+(Tamara Boldt, student nunber "4381080") Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+(hey gamers im doing this for college purposes but once the teacher isnt looking im gonna go nuts this ~~crap~~'s gonna look like neocities when im really done with it) There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
